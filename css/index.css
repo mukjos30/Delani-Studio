@@ -1,20 +1,22 @@
 .head{
     background-image:url("../backgrounds/h_img.jpg");
+
       text-align:center;
- height: 100%;
- width:60%;
- left: 50px;
- text-align: center;
- 
-  }
-  h1{
-    height:10px;
-   color:white;
-     top:10%;
-     left:30%;
-    padding:200px;
-     font-size:40px;
-     font-family:sans-serif;
-    text-align:center;
+      background-size:cover;
+      /* padding:30px; */
       
+ }
+  h1{
+    color:white;
+      font-size:40px;
+      font-family:sans-serif;
+     text-align:center;
+       
+      }
+     .image{
+       text-align: center;
+       padding:300px;
+     }
+     .header{
+       color:white;
      }
