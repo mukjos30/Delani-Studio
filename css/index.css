@@ -172,9 +172,20 @@ font-size: 30px;
 }
 .contact{
   background-image:url("../backgrounds/c_image.jpg"  );
-height:400px;
-width:900px;
+height:500px;
+width:1500px; 
     background-size:cover;
-margin-left: 50px;
-margin-right: 50px;
+ /* margin-left: 50px;
+margin-right: 50px;  */
+}
+footer{
+  margin-left: 150px;
+  padding: 50px;
+}
+.foot{
+ margin-left: 350px;
+ margin-top: -40px;
+}
+.year{
+  margin-left: 30px;
 }
