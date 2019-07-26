@@ -3,7 +3,7 @@
 
       text-align:center;
       background-size:cover;
-      padding:30px;
+      line-height: 70px;
       
  }
   h1{
@@ -13,21 +13,70 @@
     color:white;
       /* top:10%;
       left:30%; */
-     padding:100px;
-      font-size:30px;
+     padding:300px;
+      font-size:20px;
       font-family:sans-serif;
      
        
       }
      .image{
        text-align: center;
+       
      }
      
      .header{
        color:white;
        font-size:15px;
        line-height: 40px;
-           }
+     }
+      
+    .head1{
+      margin-top: 100px;
+      color: white;
+      font-size: 17px;
+      margin-top: -40px;
+    }
+    .img1{
+      margin-top:10x;
+    }
+     .delani{
+       font-size: 50px;
+     }
+
+    
+    /* .mouse{
+      margin-top:250px; */
+      
+    
+    .size{
+      font-size: 15px;
+    }
+    .up{
+      margin-top:-10%;
+    }
+    .agile{
+      text-align: center;
+    }
+    .approach{
+    
+      margin-left: 100px;
+    } 
+    .we{
+      margin-left: 60px;
+    }
+    .Then{
+      margin-left: 250px;
+    }
+    .S{
+      font-size: 30px;
+  /* margin-bottom: 5px; */
+    }
+    
+    /* .Before{
+    padding:50px;
+    padding-top:100px  */
+     
+    
      h2{
       justify-content:center;
       display:flex;
@@ -37,13 +86,26 @@
       font-size:20px;
       text-align:center;
      }
+     .about{
+       font-family: sans-serif;
+       /* font-size: 25px; */
+
+     }
+     .us{
+       font-size:17px;;
+       font-family: sans-serif;
+       /* line-height: 30px; */
+       margin-left: 70px;
+     }
         .mid{
           background-image:url("../backgrounds/s_image.jpg");
+          background-repeat:no-repeat;
       
             text-align:center;
             color:white;
-            height: 500px;
-            background-repeat:no repeat;
+            height: 600px;
+         
+            
           
       }
       h3{
@@ -59,17 +121,16 @@
         font-size:30px;
       }
       .design,.development,.product{
-      
-     width:300px;
-     margin: top;
-     text-align: center;
-     font-family:none;
+        width:300px;
+  margin: top;
+  text-align: center;
+  font-family:none;
         }
      .icons{
           display:flex;
        flex-direction:row;
        justify-content:space-around;
-       text-align:center;
+       /* text-align:center; */
 
      }
  h5{
@@ -80,29 +141,29 @@ font-size: 30px;
 .mouse{
   margin-top: 100%;
 }
-.black,.antario,.yellow,.home{
+/* .black,.antario,.yellow,.home{ */
        /* width:100px;
        height:100px; */
-  margin: top;
+  /* margin: top;
   text-align: center;
   font-family:none;
-     }
+     } */
   .potifolio{
        display:flex;
     flex-direction:row;
     justify-content:space-around;
-    text-align:center       
+    /* text-align:center        */
   }
-  .good,.white,.burned,.wonger{
+  /* .good,.white,.burned,.wonger{
 
 text-align: center;
 font-family:none;
-  }
+  } */
   .potifolio2{
     display:flex;
  flex-direction:row;
  justify-content:space-around;
- text-align:center ;
+ /* text-align:center ; */
   }
   h6{
   text-align: center;
