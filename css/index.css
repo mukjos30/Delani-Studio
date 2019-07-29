@@ -37,12 +37,14 @@
       margin-top: -40px;
     }
     .img1{
-      margin-top:10x;
+      margin-top:20px;
     }
      .delani{
        font-size: 50px;
      }
-
+.mouse{
+  margin-top:-60px;
+}
     
     /* .mouse{
       margin-top:250px; */
@@ -59,10 +61,10 @@
     }
     .approach{
     
-      margin-left: 100px;
+      margin-left: 200px;
     } 
     .we{
-      margin-left: 60px;
+      margin-left: 150px;
     }
     .Then{
       margin-left: 250px;
@@ -88,7 +90,7 @@
      }
      .about{
        font-family: sans-serif;
-       /* font-size: 25px; */
+       margin-top: 50px;
 
      }
      .us{
@@ -96,6 +98,7 @@
        font-family: sans-serif;
        /* line-height: 30px; */
        margin-left: 70px;
+       margin-top: -30px;
      }
         .mid{
           background-image:url("../backgrounds/s_image.jpg");
@@ -104,9 +107,7 @@
             text-align:center;
             color:white;
             height: 600px;
-         
-            
-          
+           
       }
       h3{
         color:white;
@@ -125,18 +126,23 @@
   margin: top;
   text-align: center;
   font-family:none;
+  /* margin-right: 70px;
+  margin-left: 70px; */
         }
      .icons{
           display:flex;
        flex-direction:row;
        justify-content:space-around;
-       /* text-align:center; */
+       margin-top: 50px;
+       padding-right: 70px;
+       padding-left: 70px;
 
      }
  h5{
 text-align: center;
 font-family:sans-serif;
-font-size: 30px;
+font-size: 50px;
+padding-top: -50px;
   };
 .mouse{
   margin-top: 100%;
@@ -152,40 +158,117 @@ font-size: 30px;
        display:flex;
     flex-direction:row;
     justify-content:space-around;
-    /* text-align:center        */
+    margin-left:100px;
+    margin-right:100px;
   }
-  /* .good,.white,.burned,.wonger{
-
-text-align: center;
-font-family:none;
-  } */
   .potifolio2{
     display:flex;
  flex-direction:row;
  justify-content:space-around;
- /* text-align:center ; */
+ margin-left: 100px;
+ margin-right: 100px;
+ margin-top: 50px;
   }
   h6{
   text-align: center;
 font-family:sans-serif;
-font-size: 30px;
+font-size: 40px;
 }
-.contact{
+ .contact{
   background-image:url("../backgrounds/c_image.jpg"  );
-height:500px;
-width:1500px; 
-    background-size:cover;
+/* height:500px;
+width:1px;   */
+  background-size:cover;  
+  margin-top: 80px; 
+  background-color: transparent;
+ }
  /* margin-left: 50px;
 margin-right: 50px;  */
-}
+
 footer{
   margin-left: 150px;
   padding: 50px;
 }
-.foot{
+/* .foot{
  margin-left: 350px;
- margin-top: -40px;
+ margin-top: -40px; */
+
+   /* margin-left: 70px;
+    margin:10px auto;
+    max-width: 400px;
+    padding: 20px 12px 10px 20px;
+    font: 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif; */
+  
+      /* padding: 0;
+      display: block;
+      list-style: none;
+      margin: 10px 0 0 0;
+  } */
+  .col{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+ .Before{
+   margin-top: 60px;
+ }
+ 
+ #name,#email,#message{
+background-color:rgba(0,0,0,0 );
+border-radius:0px;
+border-radius: 1px solid white ;
+/* height: 300px;
+width: 200px */
+
+ }
+ form{
+   margin-left: 100px;
+   margin-right: 200px;
+   
+ }
+
+ #message{
+   margin-left:20px;
+   margin-top: 20px;
+   padding-left:200px;
+ }
+ #email{
+   margin-left:20px;
+ }
+ #email,#name{
+   height: 30px;
+   width: 1000;
+ }
+#submit{
+  text-align: center;
+  color:blue;
+}
+.social{
+  margin-left: 150px;
+}
+.foot{
+  margin-left: 500px;
 }
 .year{
   margin-left: 30px;
 }
+.what{
+  margin-top: -60px;
+  font-size:30px;
+}
+.por{
+  font-size: 30px;
+}
+.d,.lan,.all{
+display: none;
+}
+#black1,#anta,#yel{
+  position:absolute;
+  color: wheat;
+  padding-left: 80px;
+  padding-top: 80px;
+}
+.black,.antario,.yellow{
+  position:relative; 
+}
+ 
