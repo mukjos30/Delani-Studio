@@ -239,7 +239,7 @@ width: 200px */
    height: 30px;
    width: 1000;
  }
-#submit{
+#form2{
   text-align: center;
   color:blue;
 }
@@ -262,13 +262,12 @@ width: 200px */
 .d,.lan,.all{
 display: none;
 }
-#black1,#anta,#yel{
+#black1,#anta,#yel,#hom,#god,#wong,#burn,#whit{
   position:absolute;
-  color: wheat;
+  color: black;
   padding-left: 80px;
   padding-top: 80px;
 }
-.black,.antario,.yellow{
+.black,.antario,.yellow,.good,.white,.burned,.wonger{
   position:relative; 
 }
- 
