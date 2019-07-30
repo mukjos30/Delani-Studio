@@ -13,6 +13,7 @@ my project  is for helping people to know us and to contact us in case they need
 + phone:0788978192
 + instagram:Josee Mukandayisega
 + facebook: Josee Mukandayisenga
+ ## license
 + MIT Copyright (c) [2019] [Josee Mukandayisenga]
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sub_license, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
