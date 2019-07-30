@@ -181,16 +181,18 @@ font-size: 40px;
   margin-top: 80px; 
   background-color: transparent;
  }
- .co{
-   padding:50px;
-   color: white;
-   font-size: 100px;
 
- }
+
+ 
  
 footer{
   margin-left: 150px;
   padding: 50px;
+}
+.co{
+  padding:50px;
+  color: white;
+  font-size: 100px;
 }
   .col{
     display: flex;
