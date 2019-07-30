@@ -158,16 +158,16 @@ $("#wong1").hover( function(){
 $("#formContact form").submit(function(event){ 
   event.preventDefault();
 
-  alert( name + 'Your message is well receveid .Thank you!')
+  
     var names=$('#name').val();
     var email=$('#email').val();
     var mesage=$('#message').val();
-    // if(names == ' '){
-    //   alert('please enter your name!');
-    // }
-    // else{
-    // alert(names + ','+ ''+ 'we receved!' );
-    // }
+    if(names == ' '){
+      alert('please enter your name!');
+    }
+    else{
+    alert(names + ','+ ''+ "Your message is well receveid .Thank you for reaching out to us!");
+    }
     
   });
 
