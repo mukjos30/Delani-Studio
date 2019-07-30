@@ -158,7 +158,7 @@ $("#wong1").hover( function(){
 $("#formContact form").submit(function(event){ 
   event.preventDefault();
 
-  alert(name + ',we received your message!')
+  alert( name + 'Your message is well receveid .Thank you!')
     var names=$('#name').val();
     var email=$('#email').val();
     var mesage=$('#message').val();
