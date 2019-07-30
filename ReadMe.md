@@ -7,7 +7,7 @@
 Josee Mukandayisenga
 
 ## Description of a Project
-my project  is for helping people to know us and to contact us in case they need help from us 
+my project  is for helping people to know us and to contact us in case they need help from us.
 ## Contact us on
 + Email:mukjos30@gmail.com
 + phone:0788978192
